@@ -8,9 +8,14 @@ process-control-chart is npm package which provides fast methods to solve p-char
 ### Install process-control-charts package
 
 ```
-npm install process-control-charts
+npm install process-control-charts-es6
 ```
 
+or
+
+```
+yarn add process-control-charts-es6
+```
 ## Example
 
 ```js
