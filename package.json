@@ -1,6 +1,6 @@
 {
   "name": "process-control-charts-es6",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "methods to solve p-chart, np-chart, c-chart,u-charts using javascript ES6 syntax",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "statistical",
     "quality",
     "control",
-    "process-control-charts"
+    "process-control-charts",
+    "spc"
   ],
   "author": "rashidmakki",
   "license": "MIT"
